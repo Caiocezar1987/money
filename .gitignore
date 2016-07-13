@@ -1,0 +1,5 @@
+*.zip
+*.pyc
+*.sqlite
+bovespa/data
+economia/indeco
