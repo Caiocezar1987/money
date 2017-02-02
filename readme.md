@@ -6,6 +6,8 @@ No entanto, no meio do projeto o foco se tornou a criação de scripts para back
 
 Atualmente, todo tipo de controle de valores está nesse repositório (ações, finanças, bitcoins).
 
+De tempos em tempos, baixar o último arquivo do [Indeco](http://www.bcb.gov.br/pec/Indeco/Port/indeco.asp), que possui todos os índices econômicos do país atualizado.
+
 
 # Todo
 
